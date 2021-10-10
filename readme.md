@@ -48,5 +48,8 @@ Exemplo
 O aprendizado profundo é freqüentemente usado para classificar imagens. Por exemplo, digamos que você queira construir um modelo de aprendizado de máquina para classificar se uma imagem contém um coala. Você alimentaria centenas, milhares ou milhões de fotos em uma máquina - algumas delas mostrando coalas e outras não. Com o tempo, o modelo aprende o que é e o que não é um coala. Com o tempo, ele pode identificar um coala com mais facilidade e rapidez em relação a outras imagens. 
 
 
-
 É importante observar que, embora os humanos possam reconhecer os coalas por suas orelhas fofas ou grandes narizes ovais, uma máquina detectará coisas que não podemos - coisas como padrões no pelo do coala ou o formato exato de seus olhos. É capaz de tomar decisões rapidamente com base nessas informações.
+
+<br><br>
+# Quando é necessário aplicar e utilizar aprendizado de máquina?
+ Sempre que não for possível escrever um algoritmo determinístico para resolver o problema. Nesse caso, para implementar a solução, buscamos conhecimento por meio de exemplos. Aprender não é memorizar. Computadores memorizam facilmente, porém não generalizam com facilidade. O que desejamos é que nossos algoritmos generalizem um comportamento diante de uma nova situação. Ao mostrar para o algoritmo diversas fotos de cachorro e dizer para ele que é um cachorro o que esperamos é que ele consiga absorver várias caracteristicas de um cachorro. Ao mostrar um novo cachorro (que ele não viu antes) que ele reconheça que esse novo contém algumas caracteristicas que fazem dele um cachorro.
