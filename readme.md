@@ -33,3 +33,20 @@ Um humano investiga e verifica manualmente as previsões do modelo se o modelo p
 <br><br>
 
 De modo geral um algoritmo de machine learning, por exemplo de regressão linear, pode ser explicado como sendo uma equação na qual o algoritmo vai ajustar os pesos com o padrão dos seus dados para formar uma equação que quando mostrado um novo dado o resultado da equação será a previsão do modelo.
+
+<br><br>
+# Deep Learning
+
+O que é?
+
+Aprendizado profundo (DL) é um subconjunto do aprendizado de máquina que usa conjuntos de algoritmos modelados pela estrutura do cérebro humano (também chamados de redes neurais). Eles são muito mais complexos do que a maioria dos modelos de aprendizado de máquina e exigem muito mais tempo e esforço para serem construídos. Ao contrário do aprendizado de máquina, que se estabiliza após uma certa quantidade de dados, o aprendizado profundo continua a melhorar conforme o tamanho dos dados aumenta. Ele tem um bom desempenho em conjuntos de dados complexos, como imagens, sequências e linguagem natural. 
+
+
+
+Exemplo
+
+O aprendizado profundo é freqüentemente usado para classificar imagens. Por exemplo, digamos que você queira construir um modelo de aprendizado de máquina para classificar se uma imagem contém um coala. Você alimentaria centenas, milhares ou milhões de fotos em uma máquina - algumas delas mostrando coalas e outras não. Com o tempo, o modelo aprende o que é e o que não é um coala. Com o tempo, ele pode identificar um coala com mais facilidade e rapidez em relação a outras imagens. 
+
+
+
+É importante observar que, embora os humanos possam reconhecer os coalas por suas orelhas fofas ou grandes narizes ovais, uma máquina detectará coisas que não podemos - coisas como padrões no pelo do coala ou o formato exato de seus olhos. É capaz de tomar decisões rapidamente com base nessas informações.
