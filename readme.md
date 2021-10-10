@@ -30,3 +30,6 @@ Um ser humano especifica regras para o que constitui fraude (por exemplo, uma co
 Essas regras são passadas por uma máquina usando um algoritmo com dados que são rotulados como "fraude" ou "não fraude" e a máquina aprende a aparência dos dados fraudulentos. 
 A máquina usa essas regras para prever fraudes.
 Um humano investiga e verifica manualmente as previsões do modelo se o modelo prevê “fraude”. 
+<br><br>
+
+De modo geral um algoritmo de machine learning, por exemplo de regressão linear, pode ser explicado como sendo uma equação na qual o algoritmo vai ajustar os pesos com o padrão dos seus dados para formar uma equação que quando mostrado um novo dado o resultado da equação será a previsão do modelo.
